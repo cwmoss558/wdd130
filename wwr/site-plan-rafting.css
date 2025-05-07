@@ -26,7 +26,6 @@ Fonts are separated by a & */
   --nav-hover-background-color: #396E94;
 }
 
-
 /*  Look around below...but DON'T CHANGE ANYTHING! */
 
 body {
@@ -162,3 +161,4 @@ nav a:hover {
   border-top: 1px solid;
   border-right: 1px solid;
 }
+
